@@ -11,6 +11,5 @@ Developer currently studying the following technologies:
 - **Database:** MySQL, Sequelize
 - **Machine Learning:** TensorFlow
 
-<img src="https://i1.sndcdn.com/artworks-DVUwxlYygwLiajW7-ZZhNJg-t1080x1080.jpg" width="90" heigth="80">
 
-
+<img src="https://github.com/user-attachments/assets/0a2fd1af-c476-4ddc-a6aa-02d76336f670" width="300" heigth="270">
